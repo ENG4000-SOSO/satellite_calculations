@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Inuvik",
+        "latitude": 68.3195,
+        "longitude": -133.549,
+        "height": 102.5,
+        "mask": 5,
+        "uplink_rate": 40000,
+        "downlink_rate": 100000000
+    },
+    {
+        "name": "Prince Albert",
+        "latitude": 53.2124,
+        "longitude": -105.934,
+        "height": 490.3,
+        "mask": 5,
+        "uplink_rate": 40000,
+        "downlink_rate": 100000000
+    },
+    {
+        "name": "Gatineau",
+        "latitude": 45.5846,
+        "longitude": -75.8083,
+        "height": 240.1,
+        "mask": 5,
+        "uplink_rate": 40000,
+        "downlink_rate": 100000000
+    }
+]
